@@ -1,0 +1,5 @@
+username: "article_rss"
+tags: ["機械学習","需要予測","swift","django"]
+slack_channel_ids: [C0178PLPP1N,C016JUD79LJ,C01646HJNVD] #swift, ml, web
+slack_url_dict: {"機械学習":"https://hooks.slack.com/services/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","需要予測":"https://hooks.slack.com/services/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","swift":"https://hooks.slack.com/services/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","django":"https://hooks.slack.com/services/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"}
+not_want_to_send_links: ["https://www.mkamimura.com/","https://ianalysis.jp/","https://github.com/"]
